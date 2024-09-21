@@ -1,73 +1,73 @@
 # Done with more the 70+ React.Js-Practices Mini to Minor Project 
-https://replit.com/@vasudhabiradar/Session26-CC1#src/App.css
-https://replit.com/@vasudhabiradar/Session26-CC2#src/App.css
-https://replit.com/@vasudhabiradar/Session26-HT1#src/App.css
-https://replit.com/@vasudhabiradar/Session26-HT2#src/App.css
-https://replit.com/@vasudhabiradar/Session27-CC1
-https://replit.com/@vasudhabiradar/Session27-CC2
-https://replit.com/@vasudhabiradar/Session27-HT1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session27HT2
-https://replit.com/@vasudhabiradar/Session28-CC1
-https://replit.com/@vasudhabiradar/Session28-CC2
-https://replit.com/@vasudhabiradar/Session28-HT1
-https://replit.com/@vasudhabiradar/Session28-HT2
-https://replit.com/@vasudhabiradar/S29-CC1
-https://replit.com/@vasudhabiradar/S29-CC2
-https://replit.com/@vasudhabiradar/Session29-HT1
-https://replit.com/@vasudhabiradar/S29-HT1
-https://replit.com/@vasudhabiradar/Session-30-CC1
-https://replit.com/@vasudhabiradar/Session-30-CC2
-https://replit.com/@vasudhabiradar/Session-30-HT1
-https://replit.com/@vasudhabiradar/Session30-HT2#src/App.jsx
-https://replit.com/@vasudhabiradar/Session31-CC1#src/App.css
-https://replit.com/@arpitajain10/Session31-CC2#src/GlobalWarmingInfoWorld.jsx
-https://replit.com/@vasudhabiradar/Session31-HT1
-https://replit.com/@vasudhabiradar/Session31-HT#src/App.jsx
-https://replit.com/@vasudhabiradar/Session30-CC1
-https://replit.com/@vasudhabiradar/Session30-CC2#src/App.css
-https://replit.com/@vasudhabiradar/Session30-HT1
-https://replit.com/@vasudhabiradar/Session30-HT2
-https://replit.com/@vasudhabiradar/Session33CC1
-https://replit.com/@vasudhabiradar/Session33-CC2#src/App.jsx
-https://replit.com/@vasudhabiradar/Session33-HT1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session33-HT2
-https://replit.com/@vasudhabiradar/S34-CC1#src/App.css
-https://replit.com/@vasudhabiradar/Session34-CC2
-https://replit.com/@vasudhabiradar/S34-HT1
-https://replit.com/@vasudhabiradar/Session34-HT2
-https://replit.com/@vasudhabiradar/Session35-MiniProject#src/App.jsx
-https://replit.com/@vasudhabiradar/Session35-HT1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session35-HT2#src/App.css
-https://replit.com/@vasudhabiradar/Session36-HT2#src/App.jsx
-https://replit.com/@vasudhabiradar/Session36-CC2#src/App.jsx
-https://replit.com/@vasudhabiradar/Session36-HT1#src/App.jsx
-https://replit.com/@vasudhabiradar/S36-EX4
-https://replit.com/@vasudhabiradar/Session37-CC1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session37-CC2#src/App.css
-https://replit.com/@vasudhabiradar/Session37-HT1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session37-HT2#src/App.css
-https://replit.com/@vasudhabiradar/Session38-HT1andHT2
-https://replit.com/@vasudhabiradar/Session38-HT1andHT2
-https://replit.com/@vasudhabiradar/Session41-CC1-1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session40-HT2-1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session40-HT1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session41-HT2#src/App.css
-https://replit.com/@vasudhabiradar/Session40CC1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session41CC2#src/App.jsx
-https://replit.com/@vasudhabiradar/Session40-HT1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session41-HT2#src/App.jsx
-https://replit.com/@vasudhabiradar/Session42-HT1#src/Star.jsx
-https://replit.com/@vasudhabiradar/Session42-HT2-2#src/App.jsx
-https://replit.com/@vasudhabiradar/Session43-Assesment
-https://replit.com/@vasudhabiradar/Session43-HT1
-https://replit.com/@vasudhabiradar/Session43-HT2
-https://replit.com/@vasudhabiradar/Session44-CC1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session44-CC2
-https://replit.com/@vasudhabiradar/Session44-HT1#src/RandomQuote.jsx
-https://replit.com/@vasudhabiradar/Session44-HT2#src/App.jsx
-https://replit.com/@vasudhabiradar/Session45-HT2#src/App.jsx
-https://replit.com/@vasudhabiradar/Session46-HT2#src/App.css
-https://replit.com/@vasudhabiradar/Session47-HT1#src/App.jsx
-https://replit.com/@vasudhabiradar/Session47-HT2
-https://replit.com/@vasudhabiradar/Session48-HT1
-https://replit.com/@vasudhabiradar/Session48-HT2#src/App.jsx
+1) [Session26-CC1](https://replit.com/@vasudhabiradar/Session26-CC1#src/App.css)  
+2) [Session26-CC2](https://replit.com/@vasudhabiradar/Session26-CC2#src/App.css)  
+3) [Session26-HT1](https://replit.com/@vasudhabiradar/Session26-HT1#src/App.css)  
+4) [Session26-HT2](https://replit.com/@vasudhabiradar/Session26-HT2#src/App.css)  
+5) [Session27-CC1](https://replit.com/@vasudhabiradar/Session27-CC1)  
+6) [Session27-CC2](https://replit.com/@vasudhabiradar/Session27-CC2)  
+7) [Session27-HT1](https://replit.com/@vasudhabiradar/Session27-HT1#src/App.jsx)  
+8) [Session27-HT2](https://replit.com/@vasudhabiradar/Session27HT2)  
+9) [Session28-CC1](https://replit.com/@vasudhabiradar/Session28-CC1)  
+10) [Session28-CC2](https://replit.com/@vasudhabiradar/Session28-CC2)  
+11) [Session28-HT1](https://replit.com/@vasudhabiradar/Session28-HT1)  
+12) [Session28-HT2](https://replit.com/@vasudhabiradar/Session28-HT2)  
+13) [Session29-CC1](https://replit.com/@vasudhabiradar/S29-CC1)  
+14) [Session29-CC2](https://replit.com/@vasudhabiradar/S29-CC2)  
+15) [Session29-HT1](https://replit.com/@vasudhabiradar/Session29-HT1)  
+16) [Session29-HT2](https://replit.com/@vasudhabiradar/S29-HT1)  
+17) [Session30-CC1](https://replit.com/@vasudhabiradar/Session-30-CC1)  
+18) [Session30-CC2](https://replit.com/@vasudhabiradar/Session-30-CC2)  
+19) [Session30-HT1](https://replit.com/@vasudhabiradar/Session-30-HT1)  
+20) [Session30-HT2](https://replit.com/@vasudhabiradar/Session30-HT2#src/App.jsx)  
+21) [Session31-CC1](https://replit.com/@vasudhabiradar/Session31-CC1#src/App.css)  
+22) [Session31-CC2](https://replit.com/@arpitajain10/Session31-CC2#src/GlobalWarmingInfoWorld.jsx)  
+23) [Session31-HT1](https://replit.com/@vasudhabiradar/Session31-HT1)  
+24) [Session31-HT](https://replit.com/@vasudhabiradar/Session31-HT#src/App.jsx)  
+25) [Session30-CC1](https://replit.com/@vasudhabiradar/Session30-CC1)  
+26) [Session30-CC2](https://replit.com/@vasudhabiradar/Session30-CC2#src/App.css)  
+27) [Session30-HT1](https://replit.com/@vasudhabiradar/Session30-HT1)  
+28) [Session30-HT2](https://replit.com/@vasudhabiradar/Session30-HT2)  
+29) [Session33-CC1](https://replit.com/@vasudhabiradar/Session33CC1)  
+30) [Session33-CC2](https://replit.com/@vasudhabiradar/Session33-CC2#src/App.jsx)  
+31) [Session33-HT1](https://replit.com/@vasudhabiradar/Session33-HT1#src/App.jsx)  
+32) [Session33-HT2](https://replit.com/@vasudhabiradar/Session33-HT2)  
+33) [Session34-CC1](https://replit.com/@vasudhabiradar/S34-CC1#src/App.css)  
+34) [Session34-CC2](https://replit.com/@vasudhabiradar/Session34-CC2)  
+35) [Session34-HT1](https://replit.com/@vasudhabiradar/S34-HT1)  
+36) [Session34-HT2](https://replit.com/@vasudhabiradar/Session34-HT2)  
+37) [Session35-MiniProject](https://replit.com/@vasudhabiradar/Session35-MiniProject#src/App.jsx)  
+38) [Session35-HT1](https://replit.com/@vasudhabiradar/Session35-HT1#src/App.jsx)  
+39) [Session35-HT2](https://replit.com/@vasudhabiradar/Session35-HT2#src/App.css)  
+40) [Session36-HT2](https://replit.com/@vasudhabiradar/Session36-HT2#src/App.jsx)  
+41) [Session36-CC2](https://replit.com/@vasudhabiradar/Session36-CC2#src/App.jsx)  
+42) [Session36-HT1](https://replit.com/@vasudhabiradar/Session36-HT1#src/App.jsx)  
+43) [Session36-EX4](https://replit.com/@vasudhabiradar/S36-EX4)  
+44) [Session37-CC1](https://replit.com/@vasudhabiradar/Session37-CC1#src/App.jsx)  
+45) [Session37-CC2](https://replit.com/@vasudhabiradar/Session37-CC2#src/App.css)  
+46) [Session37-HT1](https://replit.com/@vasudhabiradar/Session37-HT1#src/App.jsx)  
+47) [Session37-HT2](https://replit.com/@vasudhabiradar/Session37-HT2#src/App.css)  
+48) [Session38-HT1andHT2](https://replit.com/@vasudhabiradar/Session38-HT1andHT2)  
+49) [Session41-CC1](https://replit.com/@vasudhabiradar/Session41-CC1-1#src/App.jsx)  
+50) [Session40-HT2](https://replit.com/@vasudhabiradar/Session40-HT2-1#src/App.jsx)  
+51) [Session40-HT1](https://replit.com/@vasudhabiradar/Session40-HT1#src/App.jsx)  
+52) [Session41-HT2](https://replit.com/@vasudhabiradar/Session41-HT2#src/App.css)  
+53) [Session40-CC1](https://replit.com/@vasudhabiradar/Session40CC1#src/App.jsx)  
+54) [Session41-CC2](https://replit.com/@vasudhabiradar/Session41CC2#src/App.jsx)  
+55) [Session40-HT1](https://replit.com/@vasudhabiradar/Session40-HT1#src/App.jsx)  
+56) [Session41-HT2](https://replit.com/@vasudhabiradar/Session41-HT2#src/App.jsx)  
+57) [Session42-HT1](https://replit.com/@vasudhabiradar/Session42-HT1#src/Star.jsx)  
+58) [Session42-HT2](https://replit.com/@vasudhabiradar/Session42-HT2-2#src/App.jsx)  
+59) [Session43-Assessment](https://replit.com/@vasudhabiradar/Session43-Assesment)  
+60) [Session43-HT1](https://replit.com/@vasudhabiradar/Session43-HT1)  
+61) [Session43-HT2](https://replit.com/@vasudhabiradar/Session43-HT2)  
+62) [Session44-CC1](https://replit.com/@vasudhabiradar/Session44-CC1#src/App.jsx)  
+63) [Session44-CC2](https://replit.com/@vasudhabiradar/Session44-CC2)  
+64) [Session44-HT1](https://replit.com/@vasudhabiradar/Session44-HT1#src/RandomQuote.jsx)  
+65) [Session44-HT2](https://replit.com/@vasudhabiradar/Session44-HT2#src/App.jsx)  
+66) [Session45-HT2](https://replit.com/@vasudhabiradar/Session45-HT2#src/App.jsx)  
+67) [Session46-HT2](https://replit.com/@vasudhabiradar/Session46-HT2#src/App.css)  
+68) [Session47-HT1](https://replit.com/@vasudhabiradar/Session47-HT1#src/App.jsx)  
+69) [Session47-HT2](https://replit.com/@vasudhabiradar/Session47-HT2)  
+70) [Session48-HT1](https://replit.com/@vasudhabiradar/Session48-HT1)  
+71) [Session48-HT2](https://replit.com/@vasudhabiradar/Session48-HT2#src/App.jsx)  
+
